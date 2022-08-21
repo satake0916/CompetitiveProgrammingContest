@@ -1,0 +1,2 @@
+# CompetitiveProgrammingContest
+定期開催以外の競技プログラミングコンテスト
